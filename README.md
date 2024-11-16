@@ -33,9 +33,6 @@ A simple text-based quiz game where the server sends questions to the client, an
 - Java 8 or above.
 - No external libraries required.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 Feel free to fork this repository and submit pull requests if you have any improvements or bug fixes.
 
